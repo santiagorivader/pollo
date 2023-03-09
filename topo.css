@@ -1,0 +1,78 @@
+body{
+     background:url(https://acortar.link/EF3POR);		
+background-repeat:no-repeat;
+background-size: 100% 1080px;
+
+
+
+
+}
+.container{
+	width: 500px;
+	height: 470px;
+	text-align: center;
+	background-color: rgba(99, 88, 83, 0.7);
+	border border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 150px;
+
+}
+.container img {
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 40px;
+}
+h1{
+	text-align: center;
+	color: white;
+	
+	
+	
+}
+input[type="text"],input[type=contraseña]{
+	color: black;
+    height: 45px;
+	width: 300px;
+	border:none;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+}
+.btn-login{
+	padding: 12px 56px;
+	cursor: pointer;
+	border-radius: 4px;
+	border: none;
+	color: black;
+	background-color: white;
+	margin-bottom: 40px;
+
+}
+.btn-login:hover{
+	color: white;
+	background-color: black;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: black;
+
+}
+p{
+	color: black;
+	text-align: center;
+}
+p:hover{
+	color: white;
+}
+
+h2{
+	text-align: center;
+	color: white;
+
+	margin: -62px;
+	
+	
+}
